@@ -44,7 +44,7 @@ lawmate/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Vitiantanmay/lawmate.git
+git clone https://github.com/jayyyy0410/law-mate.git
 cd lawmate
 ```
 
