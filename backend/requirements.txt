@@ -1,0 +1,22 @@
+Flask==3.0.2
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# LangChain core + community
+langchain==0.2.3
+langchain-community==0.2.2
+langchain-core==0.2.5
+
+# Google Gemini integration
+langchain-google-genai==0.0.11
+google-generativeai==0.5.2
+
+# Vector store
+chromadb==0.4.24
+
+# Utilities
+tiktoken==0.7.0
+numpy==1.26.4
